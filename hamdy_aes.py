@@ -13,7 +13,7 @@ def plaintext():
 			new_string=i
 		return str(new_string)
 	except:
-		print "padding error \'\'"
+		print "input is invalid don't forget single quotations \'\'"
 
 def inputblock(x,y):
 	try:
